@@ -1,0 +1,8 @@
+C:\Users\Mertss\Desktop\buddy\My Addons\TimeBreakerEkko\bin\Release\TimeBreakerEkko.exe.config
+C:\Users\Mertss\Desktop\buddy\My Addons\TimeBreakerEkko\bin\Release\TimeBreakerEkko.exe
+C:\Users\Mertss\Desktop\buddy\My Addons\TimeBreakerEkko\bin\Release\EloBuddy.dll
+C:\Users\Mertss\Desktop\buddy\My Addons\TimeBreakerEkko\bin\Release\EloBuddy.SDK.dll
+C:\Users\Mertss\Desktop\buddy\My Addons\TimeBreakerEkko\bin\Release\SharpDX.dll
+C:\Users\Mertss\Desktop\buddy\My Addons\TimeBreakerEkko\bin\Release\SharpDX.Direct3D9.dll
+C:\Users\Mertss\Desktop\buddy\My Addons\TimeBreakerEkko\bin\Release\Newtonsoft.Json.dll
+C:\Users\Mertss\Desktop\buddy\My Addons\TimeBreakerEkko\obj\MCD\Release\TimeBreakerEkko.exe
